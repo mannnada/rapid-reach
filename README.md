@@ -126,13 +126,5 @@ We envision RapidReach as a platform that saves time, saves lives.
 
 ---
 
-## 👥 Team Members
-- Yugm Patel
-- Pruthvik Sheth
-- Shubham Kothiya
-- Mansi Patel
-
----
-
 ### ✨ Thank you for checking out RapidReach!
 
